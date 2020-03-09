@@ -33,11 +33,12 @@ So open up your android studio, Create a new project, Can be a blank activity or
 Select Kotlin as Language and API 21 or Higher
 # First things first:
 Open up your manifest folder from the project tree structure and add these permissions and a meta tag. This meta tag will help us to download the models when the user first installs the application, which will make our work easier. The permissions will allow our app to access to the internet via the users phone.
-# //These ones will come before the application tags
+
+//These ones will come before the application tags
 <uses-permission android:name="android.permission.INTERNET"/>
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 
-# //add the meta tags before initiating your activity
+//add the meta tags before initiating your activity
 <meta-data
     android:name="com.google.firebase.ml.vision.DEPENDENCIES"
     android:value="text,face,label" />
