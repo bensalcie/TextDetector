@@ -2,10 +2,10 @@
 This is a simple app that will help developers learn how to detect and extract text from images using Android-Kotlin and Firebase Machine Learning Kit via Google Cloud Platforms (GCP)
 
 # Text Detection on Images.
- <p float="left">
+ <p float="center">
   <img src="https://github.com/bensalcie/TextDetector/blob/master/screenshots/s1.png" width="150" />
   <img src="https://github.com/bensalcie/TextDetector/blob/master/screenshots/s2.png" width="150" /> 
-  <img src="https://github.com/bensalcie/TextDetector/blob/master/screenshots/s3.png" width="150" />
+  <img src="https://github.com/bensalcie/TextDetector/blob/master/screenshots/s4.png" width="150" />
 </p>
 
 
@@ -233,10 +233,10 @@ Below is an illustration of the app we have just made:
 
 
 # First Demo of Detected Text
- <p float="left">
+ <p float="center">
   <img src="https://github.com/bensalcie/TextDetector/blob/master/screenshots/s1.png" width="150" />
   <img src="https://github.com/bensalcie/TextDetector/blob/master/screenshots/s2.png" width="150" /> 
-  <img src="https://github.com/bensalcie/TextDetector/blob/master/screenshots/s3.png" width="150" />
+  <img src="https://github.com/bensalcie/TextDetector/blob/master/screenshots/s4.png" width="150" />
 </p>
 
 # Minute Maid Bottle text detected.
