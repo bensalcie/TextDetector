@@ -249,5 +249,5 @@ Below is an illustration of the app we have just made:
 You definatley need a big clap for reaching this end, Hope you learnt something.
 If you had any problem during this tutorial please write back to me:
 # Twitter:@ibensalcie
-# Email:bensalcie@gmail.co,
+# Email:bensalcie@gmail.com,
 # WhatsApp number:+254704808070
